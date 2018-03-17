@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 aaa
 bbb
 1243
@@ -12,3 +13,9 @@ jjj
 kkkfasdf
 fdsf
 hggrfb
+=======
+easy thoi
+111
+22
+33
+>>>>>>> develop
